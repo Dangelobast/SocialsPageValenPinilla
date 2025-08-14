@@ -9,6 +9,7 @@
     padding: 0;
     box-sizing: inherit;
 }
+
 body{
     background-image: linear-gradient(to top left, #753682 0%, #bf2e34 100%);
     font-family: 'nunito', sans-serif;
@@ -26,6 +27,7 @@ body{
     align-items: center;
     width: 100vw;
     height: 100vh;
+    
     
 }
 .profile-card{
@@ -97,7 +99,6 @@ color: #d3caca;
       filter: drop-shadow(4px 4px 6px rgba(0, 0, 0, 0.5));
       opacity: 0;
       -webkit-tap-highlight-color: transparent; 
-
       
 
     }
